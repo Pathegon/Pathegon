@@ -5,6 +5,7 @@
 ## I'm a Computer Science and Engineering Student  
 
 - 👨‍💻 Currently working on JavaScript, Front-End Design and UI / UX
+- 😎 I'm a Google Developer Club Student Lead and am also a part of Microsoft Student Learn Ambassadors! 
 - 📚 I’m currently learning everything about Frontend and Backend technologies 😅
 - 💪🏼 Future Goals: Graduate, keep learning.
 - ⚡ Fun fact: I'm a huge fan of games, DotA 2 anyone?
